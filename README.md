@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nobertblvck
 - 👀 I’m interested in frontend developement
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Three.js and advancing my knowledge on animations
 - 💞️ I’m looking to collaborate on any web or app project
 - 📫 How to reach me: you can reach me @nobertomamogho@gmail.com
 - 😄 Pronouns: Him
